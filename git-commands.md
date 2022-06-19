@@ -58,4 +58,4 @@ git checkout -
 <br />
 
 ###### git config 
- git config --global user.email "gurudatta.patekar@creativecapsule.com"
+ git config --global user.email "guru.patekar@gmail.com"
