@@ -73,6 +73,11 @@ export { render };
 #### Installation
 npm install msw --dev
 
+### links
+https://mswjs.io/docs/<br />
+Req handler: https://mswjs.io/docs/getting-started/mocks/rest-api<br />
+Server: https://mswjs.io/docs/getting-started/integrate/node<br />
+
 #### Setup
 - setupTests.ts
 Create setupTests.ts file under src folder and add following code<br />
