@@ -47,7 +47,7 @@ git push origin :old-name new-name
 <br />
 <br />
 
-###### Discard changes###### The
+###### Discard changes
 git reset --hard
 <br />
 <br />
