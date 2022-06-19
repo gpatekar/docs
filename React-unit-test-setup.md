@@ -141,3 +141,7 @@ import { handlers } from './handlers'
 // This configures a request mocking server with the given request handlers.
 export const server = setupServer(...handlers)
 ```
+
+### Eslint Install
+- yarn add eslint-plugin-testing-library
+- yarn add eslint-plugin-jest-dom
