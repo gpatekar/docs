@@ -6,7 +6,7 @@ ctrl + d
 **Rename all occurences**
 f2
 
-** Change tabs **
+**Change tab**
 ctrl + tab
 
 
