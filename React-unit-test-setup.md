@@ -15,6 +15,7 @@ npm install --save jest
 
 #### Jest Configuration
 - Add jest.config.js in test-config folder or root folder.<br />
+  - jest init   
 - Update package.json script with following:<br />
 `"jest": "jest --config jest.config.js"`<br />
 **Link**: https://jestjs.io/docs/configuration<br />
