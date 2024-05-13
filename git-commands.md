@@ -73,6 +73,7 @@
 
 ###### Go squash commit
 `git rebase -i commit-id`
+<br />
 Should pick first commit
 <br />
 <br />
