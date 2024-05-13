@@ -71,5 +71,11 @@
 <br />
 <br />
 
+###### Go squash commit
+`git rebase -i commit-id`
+Should pick first commit
+<br />
+<br />
+
 ###### git config 
  `git config --global user.email "guru.patekar@gmail.com"`
