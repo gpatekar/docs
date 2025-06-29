@@ -1,0 +1,27 @@
+#### Install Husky
+`npm install husky --save-dev`
+
+#### Initialize Husky
+`npx husky init`
+This will:
+- Create the .husky folder
+- Create .husky/pre-commit with a default npm test
+- Add "prepare": "husky install" in your package.json
+
+#### Modify the Pre-commit Hook inside folder .husky\pre-commit
+npx lint-staged
+
+#### Add lint-staged for lint/format automation
+`npm install lint-staged --save-dev`
+
+#### Update package.json
+`"lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "npm run format",
+      "npm run lint:fix"
+    ],
+    "*.{json,css,md}": [
+      "prettier --write"
+    ]
+  }`
+
